@@ -1,0 +1,22 @@
+#Model file details followed by modelling transformations
+
+< model01.raw >
+< 1 1 1 >
+< 0 0 0 >
+< 0 0 0 >
+
+< model02.raw >
+< 1 1 1 >
+< 0 0 0 >
+< 50 0 0 >
+
+#VCS Setup
+#In World coordinates specify
+< 100.0 100.0 100.0 >
+< 0.0 0.0 0.0 >
+< -1.0 1.0 -1.0 >
+
+#Frustum Size
+#In View coodinates speficy, wrt the eye
+< 50.0 50.0 50.0 50.0 >
+< 60.0 200.0 >
